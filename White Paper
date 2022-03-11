@@ -1,0 +1,40 @@
+Ref. 01_WPFBR_v0.1_y2018_pt-br
+Ref. 01_WPFBR_v0.1_y2018_pt-br
+		
+		    White Paper FabrikaBrIO
+
+
+	
+	        FabrikaBrIO ou "fabrica de entrada e saída", é uma analogia sobre a visão dos processos computacionais e o uso de suas tecnologias
+    nas relações comercias e sociais, servindo como ponte e garantidora da integridade dessas relações.
+            
+            Usando o principio da confiabilidade e imutalidade aplicadas em uma Blockchian a FabrikaBrIO  fornece interações entre contratos de maneira  transparente,
+     preservando a integridade das informações e garantindo a segurança das informações. Aplicando o conceito de descentralização podemos oferecer as melhores soluções
+    para desenvolver aplicações com modelos econômicos e ecossistemas distintos.
+
+            A escalabidade de alguns ecossistemas são comprometidas devido
+
+
+	
+	O  Protocolo DeWork (Trabalho Descentralizado), garante que os contratos de serviços profissionais sejam auditados com o auxilio do BCA (Algoritmo de Consenso Balanceado) entre a interação humana e a Blockchain em 50%, ou seja, para cada contrato aprovado ele terá obrigatóriamente algumas etapas para a sua execução. Para que um contrato seja criado ele precisa preencher alguns requisitos:
+     ---------------------------------------------------------------------------------------------------------------------	
+     |   VARIÁVEIS          | NOME                              | DESCRIÇÃO                                              |
+     |-------------------------------------------------------------------------------------------------------------------|
+     |  // {dework.ini}     | Protocolo DeWork                  |(entrada, integridade e liquidez);
+     |  // {dework.pool}    | Pool operacional                  |(fundo garantidor para a execução dos contratos);
+     |	// {obj.contract}   | Requisitos do contrato            | (objetivo do contrato);
+     |	// {vault.contract} | Valor                             |(valor do contrato);
+     |	// {resp.contract}  |                                    (responsável pelo contrato);
+     |	// {resp.exec}      |                                    (responsável pela execução);
+     |	// {resp.audit}     |                                    ( auditor ou curador).
+	
+	
+	 Qualquer profissional ou organização pode oferecer contratos DeWork, o protocolo fornece as condiçoes necessárias para criação de contratos inteligentes estabelecendo relações de confiança entre os diversos atores, fornecendo ferramentas necessárias para a execução dos contratos. O protocolo DeWork  oferece uma estrutura operacional capaz de reunir a declaração de objetivos de um contrato, assim como o valor alocado, profissionais envolvidos, curadores e demais partes interessadas. DeWork é orientado por requisitos legais e econômicos, respeitando as legislações locais e os acordos definidos entre interações, limitando-se apenas em garantir que as entradas e saidas sejam executadas.
+
+	Os sitema de proprorcionalidade de responsábilidades é baseada nas variáveis:
+	
+	// {ldework.pool}    28% ();
+	// {lresp.contract}  28%();
+	// {lresp.exec}      ();
+	// {lresp.audit}     (responsável pelo auditoria ou curador).
+	
