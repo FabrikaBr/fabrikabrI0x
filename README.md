@@ -14,6 +14,9 @@ Fundamental analysis on cryptography projects, smart contract verification, frau
 
 The DeWork protocol (decentralized work), allows FabrikaBr to be project-oriented, remote teams with people from all over the world..
 
+# White Paper
+https://github.com/FabrikaBr/fabrikabrI0x/blob/636c42215e0733ef1cf3736648d2b573e9ea3222/White%20Paper
+
 # DONATE
 
 Polkadot 16CzoFa2ZsyAD3jRGYBWJwaXXH1xwS39UW5XFN63Rfum41yf
